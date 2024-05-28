@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     </ul>
   <li>Install C++ Redistributable</li>
   <li>Configure permissions and install osTicket</li>
-  <li>(OPTIONAL) Have a notepad on standby to keep track of usernames and passwords for this tutorial</li>
+  <li>(IMPORTANT) Keep track of usernames and passwords for this tutorial! Have a notebook on standby</li>
 </ol>
 
 <h2>Installation Steps</h2>
