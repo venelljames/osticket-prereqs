@@ -158,8 +158,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>Click <b>Install Now</b>, osTicket should now be fully installed on your VM!</li>
     <ul>
       <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/f48259ba-ba8a-4bce-9cbe-a300903de8b2" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
-      <li><a href = "http://localhost/osTicket/scp/login.php">Link to Help Desk Page</a></li>
-      <li><a href = "http://localhost/osTicket/">Link to End Users Page</a></li>
     </ul>
   </ul>
 </p>
