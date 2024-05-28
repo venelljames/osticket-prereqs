@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 <ul>
-  <li>Windows 10 (21H2)</li>
+  <li>Windows 10 </li>
 </ul>
 
 </br>
